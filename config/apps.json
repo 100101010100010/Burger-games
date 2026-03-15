@@ -10,14 +10,14 @@
     "title": "Netlii Apps"
   },
    {
-    "link": "projects/Nexus-Proxy/embed#https://luna.amazon.com",
-    "imgSrc": "projects/amazonluna/logo.png",
-    "title": "Amazon Luna"
-  },
-   {
     "link": "/apps/ti84/",
     "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Calculator_%28iOS_26%29_app_icon.png",
     "title": "Graphing Calculator (ti84)"
+  },
+   {
+    "link": "projects/Nexus-Proxy/embed#https://luna.amazon.com",
+    "imgSrc": "projects/amazonluna/logo.png",
+    "title": "Amazon Luna"
   },
     {
     "link": "projects/Nexus-Proxy/embed#https://discord.gg",
