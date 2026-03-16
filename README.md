@@ -13,7 +13,8 @@ Welcome to Netlii, my flagship gaming website.
 - please support the project (star, fork, make you own link)
 
 ## other features
-- borgur
+- calcultor app
+- downloadable singlefile
 
   
 ## MYOL (make your own link)
