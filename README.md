@@ -28,3 +28,5 @@ Welcome to Netlii, my flagship gaming website.
 - Pete Zah for the movies site that i modded
 - gointerstellar/useinterstellar (where this whole idea started)
 - and finally bubbergamesites/0K3A, my first game site
+
+## this was made by B&CCM Co. this is just a fork of their work
